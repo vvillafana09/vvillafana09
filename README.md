@@ -22,7 +22,6 @@ I'm a senior from Texas A&M University with a BS in Computer Science. Outside of
 
 
 ## About me  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [PlaylistPilot](https://github.com/vvillafana09/PlaylistPilot)  
   
@@ -31,10 +30,6 @@ I'm a senior from Texas A&M University with a BS in Computer Science. Outside of
   
 
 - ⚡ Fun fact: 저는 한국어를 공부하고 있습니다 (I'm studying Korean)  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -96,6 +91,3 @@ I'm a senior from Texas A&M University with a BS in Computer Science. Outside of
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
