@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a senior from Texas A&M University with a BS in Computer Science. Outside of assignments I enjoy working on personal projects.  
+
   
 
 <br/>  
